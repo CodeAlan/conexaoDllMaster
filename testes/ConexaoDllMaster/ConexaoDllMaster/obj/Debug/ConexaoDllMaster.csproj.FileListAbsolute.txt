@@ -1,0 +1,6 @@
+E:\ULBRA\Disciplinas\4 - LPOO2\testes\ConexaoDllMaster\ConexaoDllMaster\bin\Debug\ConexaoDllMaster.dll
+E:\ULBRA\Disciplinas\4 - LPOO2\testes\ConexaoDllMaster\ConexaoDllMaster\bin\Debug\ConexaoDllMaster.pdb
+E:\ULBRA\Disciplinas\4 - LPOO2\testes\ConexaoDllMaster\ConexaoDllMaster\bin\Debug\Npgsql.dll
+E:\ULBRA\Disciplinas\4 - LPOO2\testes\ConexaoDllMaster\ConexaoDllMaster\bin\Debug\Mono.Security.dll
+E:\ULBRA\Disciplinas\4 - LPOO2\testes\ConexaoDllMaster\ConexaoDllMaster\obj\Debug\ConexaoDllMaster.dll
+E:\ULBRA\Disciplinas\4 - LPOO2\testes\ConexaoDllMaster\ConexaoDllMaster\obj\Debug\ConexaoDllMaster.pdb

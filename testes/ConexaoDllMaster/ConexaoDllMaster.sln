@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConexaoDllMaster", "ConexaoDllMaster\ConexaoDllMaster.csproj", "{096A92B3-E996-4A8D-A806-A85890C5D6FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApptestaDLL", "ApptestaDLL\ApptestaDLL.csproj", "{47388758-4299-48DD-B196-07FAC797E409}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{096A92B3-E996-4A8D-A806-A85890C5D6FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{096A92B3-E996-4A8D-A806-A85890C5D6FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{096A92B3-E996-4A8D-A806-A85890C5D6FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{096A92B3-E996-4A8D-A806-A85890C5D6FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47388758-4299-48DD-B196-07FAC797E409}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47388758-4299-48DD-B196-07FAC797E409}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47388758-4299-48DD-B196-07FAC797E409}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47388758-4299-48DD-B196-07FAC797E409}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
